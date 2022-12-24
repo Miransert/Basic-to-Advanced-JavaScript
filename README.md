@@ -1,3 +1,2 @@
 # Basic-to-Advanced-JavaScript
-## a
-aa
+The course "30 Days of JavaScript" by Asabeneh S. Yetayeh.
